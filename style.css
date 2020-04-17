@@ -1,0 +1,22 @@
+* {margin: 0; padding: 0;}
+.wrapper , .content, .menu , body , html {
+    height: 100%;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    background: #FCFCFD;
+}
+
+.block{
+    
+}
+.menu {
+    width: 250px;
+    background: #464E78;
+}

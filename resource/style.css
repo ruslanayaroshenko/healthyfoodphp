@@ -1,0 +1,29 @@
+* {margin: 0; padding: 0;}
+
+body {font: 12px/18px Arial, sans-serif;width: 100%; background: url(/resource/img/bg.jpg)   }
+
+input[type=text], input[type=password], input[type=email] { height: 15px; width: 200px; padding: 5px; margin-bottom: 5px;}
+input[type=submit], input[type=reset] {color: #fff; background: #D44B38; padding: 8px; border: 1px solid #A83B2D; font-weight: normal} 
+input[type=submit]:hover, input[type=reset]:hover { background: #E85F4C;}
+select {height:30px; margin-bottom: 5px;}
+
+
+.wrapper {width: 1000px; margin: 0 auto;}
+.header {width: 1000px; height: 150px; 
+    
+}
+.content {width: 1000px; height: 500px; background: #CFCFCF;} 
+
+.MenuHead { width: 1000px; height: 60px; background: #BFF08E; }
+.Menu {float: left; display: inline-block; width: 150px; height: 20px; background: #BFF08E; padding: 20px; color: #fff; font-size: 18px; font-weight: bold;}
+.Menu:hover {opacity: 0.5; cursor: pointer;}  
+.Page {padding: 20px;}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {height: 10px; padding: 20px; background: #BFF08E; }
+.MessageBlock {border: 1px solid #A83B2D; background: #D44B38; padding: 10px; color: #fff;} 
+.capinp {max-width: 80px;}
+.capimg {width: 110px; height: 30px; float: right; border: 1px solid #A83B2D; }
+.capdiv {width: 215px; height: 30px;}
